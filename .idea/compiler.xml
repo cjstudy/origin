@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="payment" />
+        <module name="api-base" />
+        <module name="mybatisplus" />
+        <module name="communicate" />
+        <module name="support" />
+        <module name="zuul" />
+        <module name="task" />
+        <module name="sm" />
+        <module name="eureka" />
+        <module name="config" />
+        <module name="consumer" />
+        <module name="position" />
+        <module name="base-entities" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-base" target="1.8" />
+      <module name="base-entities" target="1.8" />
+      <module name="bus" target="1.8" />
+      <module name="communicate" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="consumer" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="init" target="1.8" />
+      <module name="mybatis-plus" target="1.8" />
+      <module name="mybatisplus" target="1.8" />
+      <module name="origin" target="1.8" />
+      <module name="payment" target="1.8" />
+      <module name="position" target="1.8" />
+      <module name="sm" target="1.8" />
+      <module name="support" target="1.8" />
+      <module name="task" target="1.8" />
+      <module name="tools" target="1.8" />
+      <module name="zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-base" options="-parameters" />
+      <module name="base-entities" options="-parameters" />
+      <module name="bus" options="-parameters" />
+      <module name="communicate" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="init" options="-parameters" />
+      <module name="mybatis-plus" options="-parameters" />
+      <module name="mybatisplus" options="-parameters" />
+      <module name="payment" options="-parameters" />
+      <module name="position" options="-parameters" />
+      <module name="sm" options="-parameters" />
+      <module name="support" options="-parameters" />
+      <module name="task" options="-parameters" />
+      <module name="tools" options="" />
+      <module name="zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

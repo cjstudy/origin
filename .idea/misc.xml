@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/init/pom.xml" />
+        <option value="$PROJECT_DIR$/init/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/init/config/pom.xml" />
+        <option value="$PROJECT_DIR$/tools/pom.xml" />
+        <option value="$PROJECT_DIR$/init/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/task/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/payment/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/sm/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/communicate/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/position/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/support/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

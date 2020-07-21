@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: mini-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/cjstudy/mini.git
+          username: cjstudy
+          password: wang578141
+          #超时时间
+          timeout: 5
+          #分支
+#          default-label: master
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+  port: 9100

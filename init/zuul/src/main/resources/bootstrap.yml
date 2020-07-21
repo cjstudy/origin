@@ -1,0 +1,22 @@
+#注册中心
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+#服务名称
+spring:
+  application:
+    name: mini-zuul
+  cloud:
+    config:
+      discovery:
+        service-id: mini-config
+        enabled: true
+      #      profile: test
+      #建议用lable去区分环境，默认是lable是master分支
+      label: master
+
+
+  resources:
+    static-locations: /static/**
+#WW_verify_Fw5NwyABlP6TkBME.txt

@@ -1,0 +1,16 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: eurekanode
+  client:
+    register-with-eureka: false
+    fetchRegistry: false
+    service-url:
+      defaultZone: http://eurekanode:8761/eureka/
+  server:
+    enable-self-preservation: false #自我保护
+#spring:
+#  profiles:
+#    active: node1

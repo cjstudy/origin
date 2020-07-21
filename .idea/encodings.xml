@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus/communicate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus/payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus/position" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus/sm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus/support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus/task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/init" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/init/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/init/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/init/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/api-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/base-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/mybatisplus" charset="UTF-8" />
+  </component>
+</project>

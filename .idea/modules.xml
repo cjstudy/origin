@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tools/api-base/api-base.iml" filepath="$PROJECT_DIR$/tools/api-base/api-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/base-entities/base-entities.iml" filepath="$PROJECT_DIR$/tools/base-entities/base-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/bus.iml" filepath="$PROJECT_DIR$/bus/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/communicate/communicate.iml" filepath="$PROJECT_DIR$/bus/communicate/communicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/init/config/config.iml" filepath="$PROJECT_DIR$/init/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/consumer/consumer.iml" filepath="$PROJECT_DIR$/bus/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/init/eureka/eureka.iml" filepath="$PROJECT_DIR$/init/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/init/init.iml" filepath="$PROJECT_DIR$/init/init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/mybatisplus/mybatisplus.iml" filepath="$PROJECT_DIR$/tools/mybatisplus/mybatisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/origin.iml" filepath="$PROJECT_DIR$/origin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/payment/payment.iml" filepath="$PROJECT_DIR$/bus/payment/payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/position/position.iml" filepath="$PROJECT_DIR$/bus/position/position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/sm/sm.iml" filepath="$PROJECT_DIR$/bus/sm/sm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/support/support.iml" filepath="$PROJECT_DIR$/bus/support/support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/task/task.iml" filepath="$PROJECT_DIR$/bus/task/task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/tools.iml" filepath="$PROJECT_DIR$/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/init/zuul/zuul.iml" filepath="$PROJECT_DIR$/init/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

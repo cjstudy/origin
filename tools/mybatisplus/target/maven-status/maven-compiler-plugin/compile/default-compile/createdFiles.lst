@@ -1,0 +1,6 @@
+com\mini\mybatisplus\PmsMetaObjectHandler.class
+com\mini\mybatisplus\base\impl\BaseServiceImpl.class
+com\mini\mybatisplus\search\Query.class
+com\mini\mybatisplus\PmsPaginationInterceptor.class
+com\mini\mybatisplus\base\BaseService.class
+com\mini\mybatisplus\base\BaseEntity.class
